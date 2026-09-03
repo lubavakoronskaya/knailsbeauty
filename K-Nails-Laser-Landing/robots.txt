@@ -1,7 +1,0 @@
-# K Nails & Beauty — robots.txt
-# Sostituisci il dominio con quello reale del sito.
-User-agent: *
-Allow: /
-Disallow: /404.html
-
-Sitemap: https://www.knailsbeauty.it/sitemap.xml
